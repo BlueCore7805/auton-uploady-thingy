@@ -23,14 +23,14 @@ Before using the script, you'll need to configure a few settings to match your p
 ### For Both Linux and Windows
 1. **Update File Paths**  
    Open the script and modify the following lines to match your project structure:
-   ```sh
+   ```ps1
    variablesFile="./path/to/file" #Example ./src/variable.cpp
    projectFile="./project.pros"
    
 2. **Set the Auton Selector Line**\
     Configure the line that the script uses to identify the auton selector in your variables.cpp.\
     Example Configurations:
-    ```sh
+    ```ps1
     autonSelectorLine="int auton =" 
     autonSelectorLine="std::string auton ="
     
@@ -92,7 +92,7 @@ I will be using the example configuration used above as a example.
 
 ## Important Notes
 * When you are using text as your auton selector without a custom slot. It will default to where that auton is on the list. Shown below: ``Red`` will be on the ``first slot`` while ``blue`` will be on the ``second slot``.
-    ```
+    ```sh
     declare -A projectNames=(
         [red]="Red Left" 
         [blue]="Blue Right"
