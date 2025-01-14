@@ -103,7 +103,7 @@ I will be using the example configuration used above as a example.
 * I am not responsible for any damage that might cause by using this script.
  
 ## Join my discord
-Have suggestions? Bugs? Join the [discord](https://discord.gg/EMgbwcZMFs) to help contribute to this project :D
+Have suggestions? Bugs? Join the [discord](https://discord.gg/EMgbwcZMFs) to help contribute to this project:D \
 Dicord is not finished yet so everything is kinda bad...
 
 
