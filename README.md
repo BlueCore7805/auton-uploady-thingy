@@ -104,6 +104,7 @@ I will be using the example configuration used above as a example.
  
 ## Join my discord
 Have suggestions? Bugs? Join the [discord](https://discord.gg/EMgbwcZMFs) to help contribute to this project :D
+Dicord is not finished yet so everything is kinda bad...
 
 
 ## Thanks too 
