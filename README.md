@@ -98,6 +98,7 @@ I will be using the example configuration used above as a example.
         [blue]="Blue Right"
     )
 
+* When using auton groups, slots that are not filled/listed in the configueration will be turned into empty slots when uploading.
 * Make sure you set up everything correctly before running your script. If not, it might cause unexpected changes to your code. Luckily, no major changes will affect your code if something as gone wrong.
 * I am not responsible for any damage that might cause by using this script.
  
