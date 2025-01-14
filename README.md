@@ -48,7 +48,7 @@ Before using the script, you'll need to configure a few settings to match your p
     )
     
     declare -A customSlots=(
-        [blue]=3 #Auton Test will be uploaded to slot 3
+        [blue]=3 #Auton blue will be uploaded to slot 3
     )
 
     #Windows
