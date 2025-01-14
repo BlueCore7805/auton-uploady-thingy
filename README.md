@@ -8,7 +8,7 @@ A seamless script to enhance your PROS VEX Robotics projects by automating the p
 
 1. **Download the Script**  
    Visit the [Releases Page](#) and download the appropriate script for your operating system:
-   - **Linux**: `pros_uploady.sh`
+   - **Linux**: `pros.sh`
    - **Windows**: `pros.ps1`
 
 2. **Place the Script in Your Project Folder**  
